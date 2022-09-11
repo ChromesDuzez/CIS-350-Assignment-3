@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+* Zach Wilson
+* CIS 350 - Assignment 3
+* This script controls the player input for movement
+*/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

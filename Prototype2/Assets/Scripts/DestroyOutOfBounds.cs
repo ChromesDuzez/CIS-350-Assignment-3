@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+* Zach Wilson
+* CIS 350 - Assignment 3
+* This script controls the removal of objects that go out of bounds (i.e. the food and the animals)
+*/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

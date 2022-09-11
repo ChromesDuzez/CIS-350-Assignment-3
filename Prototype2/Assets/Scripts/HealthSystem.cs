@@ -1,4 +1,10 @@
-﻿//This script is based on https://www.youtube.com/watch?v=3uyolYVsiWc
+﻿/*
+* Zach Wilson
+* CIS 350 - Assignment 3
+* This script controls the player's health and stores the game over variable used by other scripts
+*/
+
+//This script is based on https://www.youtube.com/watch?v=3uyolYVsiWc
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

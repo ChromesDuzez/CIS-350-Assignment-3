@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+* Zach Wilson
+* CIS 350 - Assignment 3
+* This script controls the scoreboard and holds the score variable that other scripts use
+*/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
